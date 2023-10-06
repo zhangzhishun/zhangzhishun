@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Golang](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
