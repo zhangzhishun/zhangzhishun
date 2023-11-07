@@ -6,7 +6,7 @@
 
 - 🌟 A Blockchain Engineering & Open Source enthusiast.
 - 🌱 Currently working in Mars.
-- 💬 Ask me about Go, Python, Java, TypeScript and my projects on [zhangzhishun1024@gmail.com](mailto:zhangzhishun1024@gmail.com)
+- 💬 Ask me about Go, Python, Java, TypeScript and my projects on [myronzhangweb3@gmail.com](mailto:myronzhangweb3@gmail.com)
 
 ### 🛠 Tech Stack
 
